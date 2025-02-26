@@ -42,11 +42,11 @@ body {
     border-radius: 8px;
     margin: 10px 0;
 }
-.bank-card img {
+    .bank-card img {
     width: 40px;
     margin-bottom: 5px;
 }
-button {
+    button {
     background-color: #ff9800;
     border: none;
     color: white;
@@ -74,7 +74,7 @@ button:hover {
 <body>
     <div class="container">
         <div class="profile">
-            <img src="https://i.imgur.com/MwcMXg8.jpeg alt="Avatar">
+            <img src="https://i.imgur.com/MwcMXg8.jpeg"alt="Avatar">
             <h2>Chấn Khang</2>
             <p>💰 Đổi Tiền • GDTG • Sell/Thu Acc ADV,prem dra bf</p>
         </div>
