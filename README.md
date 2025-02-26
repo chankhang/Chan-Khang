@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,6 @@ body {
     margin: 0;
     padding: 20px;
 }
-
 .container {
     max-width: 400px;
     margin: auto;
@@ -25,35 +23,29 @@ body {
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
 }
-
 .profile img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
-
 .profile h2 {
     margin: 0;
     font-size: 20px;
 }
-
 .bank-info h3 {
     margin-top: 20px;
 }
-
 .bank-card {
     background: #292929;
     padding: 15px;
     border-radius: 8px;
     margin: 10px 0;
 }
-
 .bank-card img {
     width: 40px;
     margin-bottom: 5px;
 }
-
 button {
     background-color: #ff9800;
     border: none;
@@ -62,11 +54,9 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-
 button:hover {
     background-color: #e68900;
 }
-
 .facebook-btn {
     display: inline-block;
     margin-top: 15px;
@@ -76,7 +66,6 @@ button:hover {
     text-decoration: none;
     border-radius: 5px;
 }
-
 .facebook-btn:hover {
     background: #165dbb;
 }
