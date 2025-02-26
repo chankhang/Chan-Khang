@@ -75,9 +75,8 @@ button:hover {
     <div class="container">
         <div class="profile">
             <img src="https://i.imgur.com/MwcMXg8.jpeg"alt="Avatar">
-            <h2>Chấn Khang</2>
+            <h2>Chấn Khang</h2>
             <p>💰 Đổi Tiền • GDTG • Sell/Thu Acc ADV,prem dra bf</p>
-        </div>
         <div class="bank-info">
             <h3>Thông tin ngân hàng</h3>
             <div class="bank-card">
@@ -101,7 +100,6 @@ button:hover {
                 <p>CTK: CHAN KHANG </p>
                 <button onclick="copyToClipboard('0325279027')">Copy</button>
             </div>
-        </div>
         <a href="https://www.facebook.com/profile.php?id=100088077474675" class="facebook-btn">FACEBOOK CHÍNH CỦA TUI</a>
     </div>
   <script>
