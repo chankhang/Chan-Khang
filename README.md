@@ -103,3 +103,21 @@ button:hover {
         <a href="https://www.facebook.com/profile.php?id=100088077474675" class="facebook-btn">FACEBOOK CHÍNH CỦA TUI</a>
     </div>
   <script>
+        function copyToClipboard(text) {
+            // Tạo một phần tử textarea tạm thời
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                // Sao chép văn bản
+                const successful = document.execCommand('copy');
+                const msg = successful ? 'Đã sao chép số tài khoản: ' + text : 'Sao chép thất bại';
+                alert(msg);
+            } catch (err) {
+                alert('Không thể sao chép: ', err);
+            }
+            // Xóa phần tử textarea tạm thời
+            document.body.removeChild(textarea);
+        }
+    </script>
