@@ -43,8 +43,8 @@ body {
     margin: 10px 0;
 }
     .bank-card img {
-    width: 40px;
-    margin-bottom: 5px;
+    width: 60px;
+    margin-bottom: 10px;
 }
     button {
     background-color: #ff9800;
@@ -109,5 +109,3 @@ button:hover {
             });
         }
     </script>
-</body>
-</html>
