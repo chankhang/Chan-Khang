@@ -24,8 +24,8 @@ body {
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2);
 }
 .profile img {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
@@ -103,9 +103,3 @@ button:hover {
         <a href="https://www.facebook.com/profile.php?id=100088077474675" class="facebook-btn">FACEBOOK CHÍNH CỦA TUI</a>
     </div>
   <script>
-        function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(() => {
-                alert("Đã sao chép số tài khoản: " + text);
-            });
-        }
-    </script>
