@@ -74,7 +74,7 @@ button:hover {
 <body>
     <div class="container">
         <div class="profile">
-            <img src="https://i.imgur.com/MwcMXg8.jpeg"alt="Avatar">
+           <img src="https://i.imgur.com/MwcMXg8.jpeg" alt="Avatar">
             <h2>Chấn Khang</h2>
             <p>💰 Đổi Tiền • GDTG • Sell/Thu Acc ADV,prem dra bf</p>
         <div class="bank-info">
